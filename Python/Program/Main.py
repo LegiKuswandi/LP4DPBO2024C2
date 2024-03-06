@@ -1,3 +1,7 @@
+# Saya Legi Kuswandi mengerjakan LP4 dalam mata kuliah DPBO
+# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang 
+# telah dispesifikasikan. Aamiin.
+
 from typing import List
 from Car import Car
 from Motor import Motor
